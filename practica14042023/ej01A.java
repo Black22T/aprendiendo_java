@@ -1,9 +1,6 @@
 package practica14042023;
-//1 segunda pagina
-
 import java.util.Scanner;
-
-public class ej15 {
+public class ej01A {
     public static void main(String[] args) {
         int dif, anios, anios_act;
         Scanner sc = new Scanner(System.in);
