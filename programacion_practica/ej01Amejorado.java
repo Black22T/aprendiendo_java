@@ -3,9 +3,7 @@ package programacion_practica;
 import java.time.LocalDate;
 import java.time.Period;
 import java.util.Scanner;
-import java.time.LocalDate;
-import java.time.Period;
-import java.util.Scanner;
+
 public class ej01Amejorado {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
