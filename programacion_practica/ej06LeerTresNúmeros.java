@@ -3,14 +3,15 @@ import java.util.Scanner;
 
 public class ej06LeerTresNúmeros {
     public static void main(String[] args) {
+        int a, b, c;
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Ingrese el primer número: ");
-        int a = sc.nextInt();
+        a = sc.nextInt();
         System.out.println("Ingrese el segundo número: ");
-        int b = sc.nextInt();
+        b = sc.nextInt();
         System.out.println("Ingrese el tercer número: ");
-        int c = sc.nextInt();
+        c = sc.nextInt();
 
         a = a * 100+ b * 10 + c;
 
